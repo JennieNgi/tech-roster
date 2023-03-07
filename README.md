@@ -1,3 +1,5 @@
+<img width="748" alt="tech-roster" src="https://user-images.githubusercontent.com/75710628/223285930-f8ff5c8b-314f-4aeb-a650-a6719af4ba2d.png">
+
 # Tech Roster Administration App
 This is a full-stack web application that allows the user to add, edit, and delete technologies and courses in the Tech Roster's MongoDB database. It has been built using Node.js, Express, MongoDB, and React with Tailwind CSS for styling.
 
